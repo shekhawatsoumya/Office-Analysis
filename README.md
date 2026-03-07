@@ -112,15 +112,6 @@ The Power BI dashboard includes:
 
 ---
 
-## 🚀 How to Use
-
-1. Open [office Analysis.pbix](Result/office%20Analysis.pbix) in Power BI Desktop
-2. Interact with the dashboard using filters and slicers
-3. Explore different visualizations to gain insights
-4. Reference [Description/Office Analysis.txt](Description/Office%20Analysis.txt) for detailed findings
-
----
-
 ## 📝 Files Reference
 
 | File | Description |
