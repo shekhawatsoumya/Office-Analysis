@@ -137,8 +137,3 @@ The Power BI dashboard includes:
 | Growth Rate (2020–2023) | 160% |
 
 ---
-Data Analytics Project | Power BI Dashboard
-
----
-
-*Last Updated: March 2026*
