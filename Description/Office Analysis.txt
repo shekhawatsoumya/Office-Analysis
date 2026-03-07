@@ -1,0 +1,24 @@
+Office Analysis Dashboard: Executive Summary
+This report analyzes the current state of the organization based on workforce demographics, compensation structures, and historical hiring trends.
+1. Workforce Overview & Demographics
+The organization currently has a total headcount of 161 employees.
+Age Distribution: The workforce is predominantly younger, with the highest concentration of employees falling within the 25–35 age range.
+Gender Balance: The staff is nearly equally split by gender, with a slight majority of Female employees (51.16%) compared to Male employees (48.84%).
+2. Compensation Analysis
+The pay structure appears relatively standardized across the organization, with a tight range between the average and the maximum.
+Average Salary: 54.23K
+Salary Range: A spread of 56K exists between the lowest earner (29K) and the highest (85K).
+Gender Pay Equity: The dashboard shows strong pay equity. Female employees earn an average of 55.37K, while Male employees earn 52.86K. This indicates a marginal difference of ~4.7%, suggesting balanced compensation practices.
+3. Growth & Recruitment Trends
+The organization has experienced significant, steady growth over the last five years.
+Early Phase (2018–2019): Growth was slow, moving from 1 to 21 employees.
+Expansion Phase (2020–2023): Hiring accelerated sharply. The workforce grew by 160% between early 2020 (62 employees) and late 2023 (161 employees). This suggests a business scale-up or entry into new markets.
+4. Operational Structure
+The workforce is heavily weighted toward production and sales roles. The top three titles account for approximately 37% of the total headcount:
+Packaging Associate: 22 employees
+Production Operator: 20 employees
+Sales Representative: 18 employees
+Specialized roles like Marketing Specialists and Managers represent the smallest portion of the staff (10 employees each).
+Strategic Recommendations
+Retention Strategy: Given the high volume of employees in the 25–35 age bracket, the company should focus on long-term career pathing to retain this "growth phase" talent.
+Operational Scaling: As production roles (Packaging/Production) dominate the headcount, efficiency audits in these departments could yield the highest ROI for the business.
