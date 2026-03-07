@@ -137,16 +137,6 @@ The Power BI dashboard includes:
 | Growth Rate (2020–2023) | 160% |
 
 ---
-
-## 📄 License
-
-This project is licensed under the LICENSE file included in the repository.
-
----
-
-## 👤 Author
-
-**Soumya Shekhawat**  
 Data Analytics Project | Power BI Dashboard
 
 ---
